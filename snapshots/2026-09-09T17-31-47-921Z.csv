@@ -1,0 +1,14 @@
+school_year,recapture_amount_millions_usd,is_estimate
+2013-14,14.9,false
+2014-15,32.1,false
+2015-16,47.5,false
+2016-17,45.4,false
+2017-18,36.5,false
+2018-19,64.8,false
+2019-20,138.8,false
+2020-21,154.4,false
+2021-22,123.9,false
+2022-23,165,false
+2023-24,91.8,false
+2024-25,90.9,false
+2025-26,83.4,true
