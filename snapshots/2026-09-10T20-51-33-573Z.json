@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "generated_at": "2026-09-10T20:51:33.573Z",
+    "source": "Midland ISD Financial Intelligence Dashboard",
+    "dashboard_last_updated": "2026-09-09",
+    "notes": "Directional estimates per TEA/PEIMS calculation standards. Not audited."
+  },
+  "deficit_trend": [
+    {
+      "fiscal_year": "2024-25",
+      "deficit_millions": -42.5,
+      "board_president": "Bishop",
+      "status": "structural_deficit_inherited"
+    },
+    {
+      "fiscal_year": "2025-26",
+      "deficit_millions": -7.89,
+      "board_president": "Hodges",
+      "status": "projected_reduced"
+    },
+    {
+      "fiscal_year": "2026-27",
+      "deficit_millions": 0,
+      "board_president": "Guinn",
+      "status": "balanced_budget_goal"
+    }
+  ],
+  "recapture": {
+    "fy2025_26_estimate_millions": 83.4,
+    "total_since_2013_usd": 1089540593,
+    "share_of_local_m_and_o_dollars_2025_26": 0.27,
+    "history": [
+      {
+        "school_year": "2013-14",
+        "amount_millions": 14.9
+      },
+      {
+        "school_year": "2014-15",
+        "amount_millions": 32.1
+      },
+      {
+        "school_year": "2015-16",
+        "amount_millions": 47.5
+      },
+      {
+        "school_year": "2016-17",
+        "amount_millions": 45.4
+      },
+      {
+        "school_year": "2017-18",
+        "amount_millions": 36.5
+      },
+      {
+        "school_year": "2018-19",
+        "amount_millions": 64.8
+      },
+      {
+        "school_year": "2019-20",
+        "amount_millions": 138.8
+      },
+      {
+        "school_year": "2020-21",
+        "amount_millions": 154.4
+      },
+      {
+        "school_year": "2021-22",
+        "amount_millions": 123.9
+      },
+      {
+        "school_year": "2022-23",
+        "amount_millions": 165
+      },
+      {
+        "school_year": "2023-24",
+        "amount_millions": 91.8
+      },
+      {
+        "school_year": "2024-25",
+        "amount_millions": 90.9
+      },
+      {
+        "school_year": "2025-26",
+        "amount_millions": 83.4,
+        "estimate": true
+      }
+    ]
+  },
+  "enrollment": {
+    "shortfall_students": 1425,
+    "actual_enrollment": 27842,
+    "budgeted_projection": 29267,
+    "note": "2025-26 actual enrollment of 27,842 came in 1,425 students below the budgeted projection of 29,267 — directly reducing ADA funding and driving recent budget actions."
+  },
+  "attendance_revenue_lever": {
+    "dollars_per_attendance_point_millions": 1.6,
+    "note": "Oct 2025 policy shift quantified revenue impact of attendance."
+  }
+}
